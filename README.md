@@ -8,7 +8,7 @@ Tiptap extension for Beautiful Emoji picker for your editor.
 - Allows you to set your own emoji-database
 - Filter and search emoji as you type
 
-Uses [@vteshguys/tiptap-emoji-node](https://www.npmjs.com/package/@vtechguys/tiptap-emoji-node) for emoji schema.
+Uses [@vtechguys/tiptap-emoji-node](https://www.npmjs.com/package/@vtechguys/tiptap-emoji-node) for emoji schema.
 
 
 ## Usage
